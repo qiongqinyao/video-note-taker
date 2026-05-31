@@ -1,0 +1,11 @@
+venv/
+output/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+.idea/
+uploads/*.mp4
+uploads/*.mov
